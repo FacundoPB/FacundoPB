@@ -43,7 +43,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a6eaba6327c23744e9ff349132029372, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefab: {fileID: 0}
+  prefab: {fileID: 7989393624840454139, guid: 4c71b72f89e800e4b983689ded43a9a2, type: 3}
   direccion: {x: 0, y: 0, z: 1}
   cadaXUnidades: 2
   cantidad: 1
