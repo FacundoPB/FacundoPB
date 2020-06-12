@@ -4,7 +4,12 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Enemy
+  - Piso
+  - Obstaculos
+  - Powerup
+  - Enemigo
+  - CositaBuena
+  - CositaMala
   layers:
   - Default
   - TransparentFX
@@ -14,9 +19,9 @@ TagManager:
   - UI
   - 
   - 
-  - Obstacle
-  - 
-  - 
+  - Powerups
+  - Player
+  - Enemigos
   - 
   - 
   - 
